@@ -1,3 +1,4 @@
 # new-society-0.01
 artificial sociey
-expantinon of universe where tacos were discovered on the moon
+expantinon of universe
+atoms begin collecting to form planetary systems
